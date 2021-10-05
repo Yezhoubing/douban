@@ -1,0 +1,2 @@
+# douban
+利用flask框架，将用python爬虫爬取下来豆瓣top250存储在sqllite数据库，以网站的形式展现出来
